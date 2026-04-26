@@ -80,8 +80,7 @@ Full results, qualitative examples, and a detailed discussion → [poster PDF](L
 
 ## Diploma context
 
-This case study is part of a diploma.  
-The counter‑intuitive finding — that simpler prompts outperform elaborate ones — motivates deeper research into lightweight guardrail layers and post‑generation validation, rather than heavy prompt crafting or expensive fine‑tuning.
+This case study serves as a small‑scale experiment for a diploma thesis exploring whether prompt engineering alone can match fine‑tuning for safety‑critical LLM recommendation tasks. The findings prooved that actually we can use better model (like claude/gpt) and well-written promt rather than spending time and money on tunung. Now I'm diving into promt engineering research to understand more deeply how to construct it well
 
 ---
 
