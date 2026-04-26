@@ -1,0 +1,7 @@
+Method,Name Validity,Budget Adherence,Safety,Format Score,Inference Time (s)
+LoRA Fine-tuned,1.0,1.0,1.0,0.795,77.5
+Zero-shot,0.932,0.909,1.0,0.614,77.7
+Few-shot,0.864,0.682,1.0,0.318,78.7
+Chain-of-Thought,0.636,0.727,1.0,0.127,77.6
+Role-based,0.636,0.682,1.0,0.227,77.5
+Structured JSON,0.614,0.545,1.0,0.523,39.2
