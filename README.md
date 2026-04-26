@@ -7,6 +7,8 @@ Built with ❤️ for a diploma thesis, a poster session, and anyone who’s eve
 
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/dianaminnakhmetova/nlp-case-study)
 [![Dataset on Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/dianaminnakhmetova/koyash)
+> If the poster does not render on GitHub, you can open it directly from Yandex Disk:  
+> [poster.pdf](https://disk.yandex.ru/d/8z2uCm8tgHRnIQ)
 ---
 
 ## What’s inside?
